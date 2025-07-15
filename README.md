@@ -11,6 +11,7 @@ Bu proje, Node.js ve React kullanılarak geliştirilmiş tam kapsamlı bir film 
 - tanstack/react-query
 - node js
 - nodemon
+- react-toastify
 
 # Ekran Görüntüsü
 
