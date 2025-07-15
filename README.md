@@ -8,7 +8,9 @@ Bu proje, Node.js ve React kullanılarak geliştirilmiş tam kapsamlı bir film 
 - react-router-dom
 - react-icons
 - axios
-- @tanstack/react-query
+- tanstack/react-query
+- node js
+- nodemon
 
 # Ekran Görüntüsü
 
